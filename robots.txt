@@ -1,3 +1,2 @@
 ﻿User-agent: *
 Disallow:
-Host: www.patrologia-lib.ru
